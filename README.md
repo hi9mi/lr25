@@ -19,7 +19,7 @@
 1. Убедитесь, что у вас установлен Node.js (рекомендуемая версия: >=18).
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/hi9mi/lr2.5.git
+   git clone https://github.com/hi9mi/lr25.git
    ```
 3. Установите зависимости:
    ```bash
@@ -29,4 +29,4 @@
    ```bash
    npm run dev
    ```
-5. Откройте браузер и перейдите по адресу `http://localhost:4321/lr2.5`.
+5. Откройте браузер и перейдите по адресу `http://localhost:4321/lr25`.
